@@ -22,4 +22,11 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <modules>
+  	<module>hellowordlmcv.controller</module>
+  	<module>helloworldmcv.model</module>
+  	<module>helloworldmcv.view</module>
+  	<module>helloworldmcv.Contract</module>
+  	<module>helloworldmvcmcv.main</module>
+  </modules>
 </project>
